@@ -1,4 +1,5 @@
-# Who Wrote It? Using Machine Learning to Determine Who Wrote the Disputed Essays of the Federalist Papers.
+# Who Wrote It? 
+# Using Machine Learning to Determine Who Wrote the Disputed Essays of the Federalist Papers.
 ## Was it Madison or Hamilton?
 
 We will also try to see which algorithms yield the most accurate results? 
