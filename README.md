@@ -6,7 +6,7 @@ We will also try to see which algorithms yield the most accurate results?
 
 Method 1 involves using clustering algorithms - k-Means, EM, and HAC.
 Method 2 involves classification algorithms - decision trees 
-  - Method 2 in R
+  - Method 1 in R
   - Method 2 in Python + Comparison
 
 ### 1. About the Federalist Papers
